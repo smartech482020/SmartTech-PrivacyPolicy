@@ -27,3 +27,12 @@ We use the information we collect or receive:
   * **Fulfill and manage your orders.** we may use your information to fulfill and manage your orders, returns and exchanges mad through the App.
   * **To deliver and facilitate delivery of services to the user.** We may use your information to provide you with the requesed service.
   * **To respond to user inquiries/offer support to users.** We may use your information to respond to your inquiries and solve any potential issues you might have with the use of our Services.
+
+## 3. Will your information be shared with anyone? 
+**In Short:** We only share information with your consent, to comply with laws, to provide you with services, to protect your rights, or to fulfill business obligations. 
+We may process or share your data that we hold based ion the following legal basis:
+ * **Consent:** We may process your datata if you have given us specific puprpose.
+ * **Legitimate Interests:** We may process your data when it is reasonably necessary yo archieve our legitimate business interests.
+ * **Performance of a Contract:** Where we have entered into a contract with you, we may process your personal information to fulfill the terms of our contract.
+ * **Vital Interests:** We may disclose your information where we believe it is necessary to investigate, prevent, or take action regarding potential violations of our policies, suspected fraud, situations involving potential threats to the safety of any person and illegal activities, or as evidence in litigation in which we are involved.
+  
