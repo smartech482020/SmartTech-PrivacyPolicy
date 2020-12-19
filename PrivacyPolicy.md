@@ -1,4 +1,4 @@
-                                                               # SmartTech - Online Store
+                                                               **SmartTech-Online Store**
 
 # Privacy Policy
 
