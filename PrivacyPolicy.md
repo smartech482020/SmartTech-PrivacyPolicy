@@ -11,13 +11,13 @@ When you use our mobile application, we appreciate that you are trusting us with
 
 ## 1. What information do we collect?
 
-**In Short:** We collect information regarding you mobile device, when you use our App.
+**In Short:** We collect information regarding your mobile device, when you use our App.
 
   * *Mobile Device* Access: We may request access or permission to certain features from your mobile device (storage permission). If you wish to change our access or permissions, you may do so in your device's settings. 
 
 This information is primary needed to maintain the security and operation of our App. 
 
-## 2. How do we use you information?
+## 2. How do we use your information?
 
 **In Short:** We process your information for purposes based on legitimate business interests, the fulfillment of our contract with you, compliance with our legal obligations and /or your consent.
 
