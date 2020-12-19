@@ -1,5 +1,5 @@
 <p align=center>
-**SmartTech-Online Store**
+SmartTech-Online Store
 </p>
 # Privacy Policy
 
