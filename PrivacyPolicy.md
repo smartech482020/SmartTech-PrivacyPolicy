@@ -36,19 +36,19 @@ We may process or share your data that we hold based ion the following legal bas
  * **Performance of a Contract:** Where we have entered into a contract with you, we may process your personal information to fulfill the terms of our contract.
  * **Vital Interests:** We may disclose your information where we believe it is necessary to investigate, prevent, or take action regarding potential violations of our policies, suspected fraud, situations involving potential threats to the safety of any person and illegal activities, or as evidence in litigation in which we are involved.
 
-## How do we handle your social logins?
+## 4. How do we handle your social logins?
 **In Short:** If you choose to register or log in to our services using a social media account, we may have access to certain information about you.
 Our App offers you the ability to register and login using your third-party social media account details(like your Google logins). Where you choose to do this, we will receive certain profile information about you from your social media provider.The profile information we receive include you name, email adress and other information you choose to make public on such social media platform.
 
 We will use the information we receive only for the purposes that are described in this privacy notice or that are otherwise made clear to you on the relevant App. Please not that we do not control, and are not responsible for, other uses of your personal information by your third-part social media provider. We recommend that you review their privacy notice to understand how they collect,use and share your personal information, and how you can set your privacy perferences on their sites and apps.
 
-## Is your information transferred internationally?
+## 5. Is your information transferred internationally?
 
 **In Short:** We may transfer, sotre, and process your information in countries other than you own.
 
 Our servers are located in the EU, if you are accessing our App from outside   , please be awatre that your information may be transfarred to, stored, and processed by us in our facilities and byt those parties with whom we may shar your personal information.(see "Will your information be shared with anyone?")
 
-## What are your privacy rights?
+## 6. What are your privacy rights?
 **In Short:** You may review, change, or terminate your account at anytime.
 
 If you have questions or comments about your privacy rights, you may email us at info@smartech.org.
@@ -61,5 +61,5 @@ If you wouldat any time like to review or change the information in your account
 
 Upon your request to terminate your account, we will deactivate and delete your account and information from our active databases. However, we may retain some information in our files to prevent fraud, assist with any investigation, enforce our Terms of Use and/or comply with applicable legal requirements.
 
-## How can you contact us about this notice?
+## 7. How can you contact us about this notice?
 If you have questions or comments about this notice, you may email us at info@smartech.org call support: +972505999282.
