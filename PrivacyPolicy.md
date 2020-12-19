@@ -1,8 +1,8 @@
 <p align=center>
 SmartTech-Online Store
 </p>
-# Privacy Policy
 
+# Privacy Policy
 Thank you for choosing to be part of our community at SmartTechLtd. We are committed to protecting your personal information and your right to privacy. We are commited to protecting your personal information and your right to privacy. If you have any questions or concerns about this privacy notice, or our practices with regards to your personal information, please contact us at info@smartechltd.org .
 
 When you use our mobile application, we appreciate that you are trusting us with you information. We Take your privacy very seriously.In this privacy notice, we seek to explain to you in th clearest way pissible what information we collect, how we use it and what rights you have in relation to it. We hope you take some time to read through it carefully, as it is important. If there are any terms in this privacy notice that you do not agree with, please discontinue use of our Services immediately.
